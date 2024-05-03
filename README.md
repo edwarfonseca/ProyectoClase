@@ -1,2 +1,2 @@
 # ProyectoClase
-Proyecto sobre la tienda de viveres y alcohol "La Esquinita"
+Proyecto sobre la tienda "La Esquinita"
